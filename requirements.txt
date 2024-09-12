@@ -4,5 +4,4 @@ pandas==2.2.2
 pandocfilters==1.5.1
 scikit-learn==1.5.1
 seaborn==0.13.2
-tensorflow==2.15.1
-tensorflow-macos==2.15.1
+tensorflow==2.17.0
