@@ -8,7 +8,7 @@ The project leverages sequence models like LSTMs (Long Short-Term Memory network
 Preprocessing steps include:
 
 * Tokenization: Splitting text into tokens or words.
-* Text Normalization: Converting text to lowercase, removing special characters, etc.
+* Text Normalization: Converting text to lowercase, removing special characters, Expand Contractions.
 * Sequence Padding: Ensuring that all input sequences are of the same length.
  
 # Model
@@ -25,9 +25,10 @@ pip install -r requirements.txt
 # Usage
 ```bash
 jupyter notebook Question_Answering.ipynb
+```
 ```bash
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
+```
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
