@@ -26,9 +26,9 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Question_Answering.ipynb
 ```
-```bash
+
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-```
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
