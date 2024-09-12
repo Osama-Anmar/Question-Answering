@@ -15,7 +15,6 @@ Preprocessing steps include:
 Several models have been explored for text generation, including:
 
 * LSTM (Long Short-Term Memory)
-* GRU (Gated Recurrent Unit)
 
 # Installation
 ```bash
@@ -24,8 +23,9 @@ cd Question-Answering
 pip install -r requirements.txt
 ```
 # Usage
+```bash
 jupyter notebook Question_Answering.ipynb
-
+```bash
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
