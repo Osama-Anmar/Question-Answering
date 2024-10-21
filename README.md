@@ -15,6 +15,9 @@ Preprocessing steps include:
 Several models have been explored for text generation, including:
 
 * LSTM (Long Short-Term Memory)
+* GRU (Gated Recurrent Unit)
+* Bidirectional LSTM
+* BERT Transformers
 
 # Installation
 ```bash
